@@ -7,6 +7,12 @@
       "amount": 1500,
       "note": "Primo contributo, base di partenza",
       "base": true
+    },
+    {
+      "id": "e1793445988783",
+      "name": "Cristian",
+      "anon": false,
+      "amount": 50
     }
   ]
 }
