@@ -1,0 +1,12 @@
+{
+  "goal": 3000,
+  "entries": [
+    {
+      "id": "e1",
+      "name": "Flavia Finamore",
+      "amount": 1500,
+      "note": "Primo contributo, base di partenza",
+      "base": true
+    }
+  ]
+}
