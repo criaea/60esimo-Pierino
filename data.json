@@ -19,6 +19,12 @@
       "name": "",
       "anon": true,
       "amount": 30
+    },
+    {
+      "id": "e1793986071200",
+      "name": "Ottavio Crotti",
+      "anon": false,
+      "amount": 50
     }
   ]
 }
