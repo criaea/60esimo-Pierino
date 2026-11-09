@@ -33,16 +33,16 @@
       "amount": 200
     },
     {
-      "id": "e1794058220214",
-      "name": "Letizia Crotti",
-      "anon": false,
-      "amount": 25
-    },
-    {
       "id": "e1794256163900",
       "name": "Beniamina Crotti",
       "anon": false,
       "amount": 40
+    },
+    {
+      "id": "e1794256618232",
+      "name": "Fulvia Poli",
+      "anon": false,
+      "amount": 25
     }
   ]
 }
