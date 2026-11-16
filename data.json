@@ -73,6 +73,18 @@
       "name": "",
       "anon": true,
       "amount": 100
+    },
+    {
+      "id": "e1794871119558",
+      "name": "Valerio Crotti",
+      "anon": false,
+      "amount": 50
+    },
+    {
+      "id": "e1794871130871",
+      "name": "Nives Crotti",
+      "anon": false,
+      "amount": 25
     }
   ]
 }
