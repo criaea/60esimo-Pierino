@@ -91,6 +91,12 @@
       "name": "Fabiano Finamore",
       "anon": false,
       "amount": 150
+    },
+    {
+      "id": "e1795460778590",
+      "name": "",
+      "anon": true,
+      "amount": 300
     }
   ]
 }
