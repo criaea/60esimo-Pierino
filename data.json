@@ -97,6 +97,12 @@
       "name": "",
       "anon": true,
       "amount": 300
+    },
+    {
+      "id": "e1795776628778",
+      "name": "Francesco Finamore",
+      "anon": false,
+      "amount": 60
     }
   ]
 }
